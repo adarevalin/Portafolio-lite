@@ -1,7 +1,7 @@
 import { GetStaticProps } from 'next'
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations'
 import nextI18nextConfig from '@/next-i18next.config'
-
+import React from 'react'
 import { AboutMe } from '../app/components/AboutMe'
 import { Navbar } from '../app/components/Navbar'
 import { Experience } from '../app/components/Experience'

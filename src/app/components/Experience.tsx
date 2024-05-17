@@ -7,7 +7,7 @@ import { IExperience } from '../interfaces/locales/experience.interface'
 import { TextButtonChangeColorHover } from '../elements/TextButtonChangeColorHover'
 
 import { processDate } from '../utils/processDate'
-import { useEffect, useState } from 'react'
+import React, { useEffect, useState } from 'react'
 
 export const Experience = () => {
   const { t } = useTranslation('experience')

@@ -1,5 +1,5 @@
 {
-  "designRef": "Designed on the fly from my mind and taking as reference <anchorRefPortfolio>Brittany Chiang's portfolio</anchorRefPortfolio> and <anchorRefAngular>angular.dev's site</anchorRefAngular>. ",
+  "designRef": "Designed in progress by <anchorMisty>MistyBlunch</anchorMisty> and taking as reference <anchorRefPortfolio>Brittany Chiang's portfolio</anchorRefPortfolio> and <anchorRefAngular>angular.dev's site</anchorRefAngular>. ",
   "builtWithRef": "Built with <anchorNextJS>Next.js</anchorNextJS> and <anchorTailwindCSS>Tailwind CSS</anchorTailwindCSS>, deployed with <anchorVercel>Vercel</anchorVercel> and programmed in <anchorVSCode>VS Code</anchorVSCode>. ",
   "textFontRef": "All texts have typeface <anchorInterFont>Inter</anchorInterFont>. ",
   "anchorRefPortfolio": "https://brittanychiang.com/",
@@ -8,5 +8,6 @@
   "anchorTailwindCSS": "https://tailwindcss.com/",
   "anchorVercel": "https://vercel.com/",
   "anchorVSCode": "https://code.visualstudio.com/",
-  "anchorInterFont": "https://rsms.me/inter/"
+  "anchorInterFont": "https://rsms.me/inter/",
+  "anchorMisty": "https://github.com/MistyBlunch/portfolio-v2.git"
 }

@@ -1,11 +1,12 @@
 {
   "greeting": "Hi, it's",
-  "position": "Full Stack Developer",
-  "highlight": "Doglover, technology, music and art enthusiast.",
-  "intro": "In 2017, before starting college, I had my first approach in the world of Software development after taking some online courses and attending workshops from various <anchorOrganizations>organizations</anchorOrganizations>.",
-  "denouement": "Over time I gained more experience and lost the fear of learning and exploring new technologies. Currently I am a Full Stack developer with more than 2 years of experience and I am dedicated to improve my skills in software development and share what I learn.",
-  "hobbies": "In my free time I like to go out with my dog <anchorEmma>Emma</anchorEmma> for walks, ride my scooter, go to tech and pet events, watch movies, go to fairs and above all listen to <anchorMusic>music</anchorMusic>.",
+  "position": "artificial intelligence",
+  "highlight": "Information and artificial intelligence are intertwined as a universe of opportunities.",
+  "intro": "A native of Puerto Asis, Putumayo, I was displaced by the armed conflict with my family. We traveled in search of a new home, and thanks to this experience, I learned to adapt to new situations and challenges. In 2018, I started my university career at the University of Pamplona. I was greatly attracted to electronic engineering due to its great versatility in areas such as communications, instrumentation and programming, allowing me to develop a great passion for technologies and their <anchorOrganizations>contribution to society</anchorOrganizations>.",
+  "denouement": "During my time of study, I stood out for my performance, my curiosity to learn and a great fascination for artificial intelligence and how it is shaping today's world. Thus, I embarked on the task of doing my thesis research on how, through artificial intelligence, we can develop very accessible tools that give us optimal results. Since then, I have focused on learning more about this wonderful world of AI, both at <anchorRosario> Universidad del Rosario </anchorRosario> and on teaching platforms such as <anchorPlatzi>Platzi</anchorPlatzi>, which have provided me and incredible learning.",
+  "hobbies": "In my free time I like to exercise, watch movies, travel, spend quality time with family and friends, go to fairs and, above all, listen to <anchorMusic>music</anchorMusic>.",
   "anchorOrganizations": "https://linktr.ee/mistyblunch",
-  "anchorMusic": "https://bit.ly/mistys2023songs",
-  "anchorEmma": "https://www.instagram.com/emma.la.perri"
+  "anchorMusic": "https://open.spotify.com/collection/tracks",
+  "anchorRosario": "https://www.innovationcampus.com.co/",
+  "anchorPlatzi" : "https://platzi.com/p/kyfunky1386/"
 }

@@ -24,179 +24,105 @@
   ],
   "projects": [
     {
-      "name": "Misty Blunch's Portafolio v2",
-      "year": 2023,
+      "name": "Gist: Clasificador para análisis de sentimientos",
+      "year": 2024,
       "source": "Github",
-      "link": "https://github.com/MistyBlunch/portfolio-v2",
-      "description": "Mi portafolio actualizado con internacionalización, temas y mucho más.",
+      "link": "https://gist.github.com/adarevalin/d5a8b686eee1495e1129adc75caa8068",
+      "description": "Este código utiliza un corpus generado por Amazon que recopila reseñas de secciones como libros, DVD o electrónica. A partir de estos datos, se extrajeron las palabras más relevantes para cada clase y se codificaron para utilizar modelos de clasificación de sklearn.",
       "tools": [
-        "Node",
-        "Next",
-        "React",
-        "Tailwind",
-        "Framer Motion",
-        "Typescript"
-      ]
-    },
-    {
-      "name": "Yapo - Tus canciones favoritas",
-      "year": 2023,
-      "source": "",
-      "link": "",
-      "description": "Backend para consultar canciones desde la API de iTunes que te permite guardar una canción como favoritos.",
-      "tools": [
-        "Node",
-        "Express",
-        "Angular",
-        "Axios",
-        "Bulma",
-        "Typescript",
-        "Mongo"
-      ]
-    },
-    {
-      "name": "Tokenización de Tarjetas",
-      "year": 2023,
-      "source": "",
-      "link": "",
-      "description": "Función lambda para crear, validar y guardar una tarjeta de crédito encriptada que devuelve un token.",
-      "tools": ["Node", "Typescript", "Serverless", "Redis", "Jest"]
-    },
-    {
-      "name": "Minxy Viajes",
-      "year": 2022,
-      "source": "",
-      "link": "",
-      "description": "Gestiona los viajes, conductores, pasajeros y trayectos de tu empresa de transporte.",
-      "tools": ["Django", "Python", "Axios", "Vue", "Vuetify", "Sass"]
-    },
-    {
-      "name": "Elegimos.pe",
-      "year": 2021,
-      "source": "Github",
-      "link": "https://github.com/ELECCIONES-PERU-PROYECTO/webpage",
-      "description": "Página web con la que podrás filtrar a candidatos presidenciales y congresales de las elecciones peruanas del 2021.",
-      "tools": [
-        "Javascript",
         "Python",
-        "Django",
+        "Libreria NLTK",
+        "Libreria sklearn",
+        "Libreria Pandas",
+        "Libreria NumPy",
+        "Libreria matplotlib",
+        "GitHub"
+      ]
+    },
+    {
+      "name": "Gist: Clasificador de SPAM",
+      "year": 2024,
+      "source": "Github",
+      "link": "https://gist.github.com/adarevalin/e6cc435158613cce83791f378940183e",
+      "description": "Código que utiliza un corpus con correos clasificados como HAM y SPAM. Estos correos se procesan para obtener bigramas útiles que ayuden a determinar su etiqueta.",
+      "tools":  [
+        "Python",
+        "Libreria NLTK",
+        "Libreria NumPy",
+        "Libreria Pandas",
+        "GitHub"
+      ]
+    },
+    {
+      "name": "Desarrollo de un modelo para predecir la turbidez del agua mediante el procesamiento de imágenes",
+      "year": 2023,
+      "source": "Github",
+      "link": "https://github.com/adarevalin/Modelo_turbidez_de_agua.git",
+      "description": "El modelo se construye utilizando datos de diferentes niveles de turbidez del agua. Se emplean integrales proyectivas para perfilar cada imagen y se somete a pruebas con diferentes modelos de sklearn y keras con el objetivo de mejorar su rendimiento.",
+      "tools":  [
+        "Python",
+        "Libreria sklearn",
+        "Libreria NumPy",
+        "Libreria Pandas",
+        "tensorFlow",
+        "PyQt5",
+        "GitHub"
+      ]
+    },
+    {
+      "name": "Flujo de trabajo para frontend con Node.js y React",
+      "year": 2023,
+      "source": "Github",
+      "link": "https://github.com/adarevalin/Frontend_MyPortafolio.git",
+      "description": "Esta es mi primera estructura de frontend diseñada para gestionar los datos obtenidos del backend. Permite mostrarlos, realizar consultas, enviar datos, visualizar y actualizar la información de manera eficiente.",
+      "tools":  [
+        "Javascript",
+        "Biblioteca React",
+        "Entorno Node-js",
         "PostgreSQL",
         "HTML",
         "CSS",
-        "UIkit"
+        "Git",
+        "GitHub"
       ]
     },
     {
-      "name": "Susy Todos Manager",
-      "year": 2020,
+      "name": "Flujo de trabajo para backend con express y React",
+      "year": 2023,
       "source": "Github",
-      "link": "https://github.com/cs2b01-lab1-01-2020-2/To-dos-Manager-CSERN",
-      "description": "Crea y busca las tareas que tienes pendientes, cambia el estado de tus tareas y crea tareas en común con otras personas.",
-      "tools": ["Python", "Flask", "PostgreSQL", "UIkit", "CSS", "Javascript"]
+      "link": "https://github.com/adarevalin/Backend_MyPortafolio.git",
+      "description": "Este es mi primer flujo de trabajo con Express para consultar una base de datos y gestionar datos, permitiendo la obtención, modificación, eliminación o actualización de los mismos.",
+      "tools":  [
+        "Javascript",
+        "Biblioteca React",
+        "Entorno Express",
+        "PostgreSQL",
+        "Git",
+        "GitHub"]
     },
     {
-      "name": "Tic Tac Toe C++",
-      "year": 2020,
+      "name": "Modelo de predicción del abecedario sordomudo por medio de imagenes",
+      "year": 2022,
       "source": "Github",
-      "link": "https://github.com/MistyBlunch/tic-tac-toe-cpp",
-      "description": "Juega Tic Tac Toe desde tu consola y cambia el tamaño del tablero si desear retarte a ti mismo.",
-      "tools": ["C++"]
-    },
-    {
-      "name": "Blog con Redux",
-      "year": 2020,
-      "source": "Github",
-      "link": "https://github.com/MistyBlunch/Blog_redux",
-      "description": "Lee, crea, borra y lista tus post en un blog minimalista.",
-      "tools": ["React", "Redux", "Node", "Axios", "CSS"]
-    },
-    {
-      "name": "Página del club de Ciberseguridad de UTEC",
-      "year": 2020,
-      "source": "Github",
-      "link": "https://github.com/MistyBlunch/CyberSecurityClub",
-      "description": "Página web desarrollada en unos talleres para el Club de Ciberguridad de UTEC",
-      "tools": ["React", "Javascript", "Materialize", "CSS"]
-    },
-    {
-      "name": "Registro de Badges",
-      "year": 2019,
-      "source": "Github",
-      "link": "https://github.com/MistyBlunch/badgesRegistration",
-      "description": "Registra tu badge para asistir a la Platzi Conf del 2019.",
-      "tools": ["React", "Javascript", "Bootstrap", "CSS"]
-    },
-    {
-      "name": "Movies App",
-      "year": 2019,
-      "source": "Github",
-      "link": "https://github.com/MistyBlunch/moviesApp",
-      "description": "Mira a detalle las películas en tendencia de themoviedb API.",
-      "tools": ["React", "CSS"]
-    },
-    {
-      "name": "Misty Blunch's Portafolio v1",
-      "year": 2019,
-      "source": "mistyblunch.github",
-      "link": "mistyblunch.github.io/",
-      "description": "Mi primer portafolio con internacionalización usando VanillaJS.",
-      "tools": ["Javascript", "HTML", "CSS", "Bulma"]
-    },
-    {
-      "name": "Yearbook",
-      "year": 2019,
-      "source": "Github",
-      "link": "https://github.com/MistyBlunch/basic-yearbook",
-      "description": "Anuario de ejemplo para el taller de desarrollo web del colegio Telésforo Catacora en Santa Clara - Ate.",
-      "tools": ["Javascript", "HTML", "CSS"]
-    },
-    {
-      "name": "Leauty Web Scraping",
-      "year": 2018,
-      "source": "Github",
-      "link": "https://github.com/MistyBlunch/leauty",
-      "description": "Página web para buscar y listar libros de libgen con una interfaz más amigable.",
+      "link": "https://github.com/adarevalin/Prediccion_de_abecedario_sordomudo.git",
+      "description": "Se encontra toda la programacion para programar su propio modelo para clasificacion, entrenarla y ejecutarla.",
       "tools": [
         "Python",
-        "Flask",
-        "Javascript",
-        "BeautifulSoup",
-        "HTML5",
-        "CSS3",
-        "Bulma"
+        "Libreria Mediapipe",
+        "Libreria Keras"
       ]
     },
     {
-      "name": "Styve App",
-      "year": 2018,
+      "name": "lans-electrónica",
+      "year": 2020,
       "source": "Github",
-      "link": "https://github.com/MistyBlunch/styve_app",
-      "description": "Aplicación para encontrar personas que te ayuden con tus tareas de cualquier materia.",
-      "tools": ["Angular", "Typescript", "Ionic", "Firebase", "CSS"]
-    },
-    {
-      "name": "Números Palíndromos",
-      "year": 2018,
-      "source": "Github",
-      "link": "https://github.com/MistyBlunch/palindrome_numbers",
-      "description": "Descubre si una palabra o número es palíndromo.",
-      "tools": ["Javascript", "HTML", "Bulma"]
-    },
-    {
-      "name": "Probando P5.js",
-      "year": 2018,
-      "source": "Github",
-      "link": "https://github.com/MistyBlunch/examples-with-p5.js",
-      "description": "Ejercicios simples para probar P5.js.",
-      "tools": ["Javascript", "P5.js"]
-    },
-    {
-      "name": "Mi Primer Blog",
-      "year": 2018,
-      "source": "Github",
-      "link": "https://github.com/MistyBlunch/my_first_blog",
-      "description": "Mi primer blog siguiendo la guía de Django Girls.",
-      "tools": ["Python", "Django", "Flask", "HTML", "CSS"]
+      "link": "https://github.com/adarevalin/lans-electronics.git",
+      "description": "Mi primera incursión en la creación de páginas web. ",
+      "tools":[
+        "HTML",
+        "CSS"
+      ]
     }
-  ]
-}
+  
+
+  ]}

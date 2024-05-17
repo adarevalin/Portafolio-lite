@@ -3,13 +3,12 @@ import i18nextConfig from '../../next-i18next.config'
 
 class MyDocument extends Document {
   render() {
-    const currentLocale =
-      this.props.__NEXT_DATA__.locale ?? i18nextConfig.i18n.defaultLocale
+    const currentLocale = this.props.__NEXT_DATA__.locale ?? i18nextConfig.i18n.defaultLocale
     return (
       <Html lang={currentLocale}>
         <Head>
           <meta charSet='utf-8' />
-          <link rel='icon' href='images/icon.svg' />
+          <link rel='icon' href='./public/images/icon.svg' />
         </Head>
         <body>
           <Main />

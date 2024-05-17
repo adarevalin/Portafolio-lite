@@ -16,7 +16,7 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
   return (
     <ThemeProvider attribute='class' defaultTheme='system' enableSystem>
       <Head>
-        <title>Misty Blunch</title>
+        <title>Portafolio</title>
       </Head>
       <main className={inter.className}>
         <Component {...pageProps} />

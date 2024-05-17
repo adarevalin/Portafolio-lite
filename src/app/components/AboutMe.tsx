@@ -2,7 +2,7 @@
 
 import { Trans, useTranslation } from 'next-i18next'
 import { AboutMeImageWrapper } from '../elements/AboutMeImageWrapper'
-import { Component } from 'react'
+import React, {Component } from 'react'
 
 export const AboutMe = () => {
   const { t } = useTranslation(['about-me', 'common'])
@@ -35,11 +35,33 @@ export const AboutMe = () => {
               }}
             />
           </div>
+
           <div className='mb-4'>
-            <span className='inline max-md:hidden'>
+            {/* <span className='inline max-md:hidden'>
               {' ' + t('denouement')}
-            </span>
+            </span> */}
+            <Trans
+              i18nKey='about-me:denouement'
+              components={{
+                component: <Component />,
+                anchorRosario: (
+                  <a
+                    href={t('anchorRosario')}
+                    target='_blank'
+                    className='link font-bold'
+                  />
+                ),
+                anchorPlatzi: (
+                  <a
+                    href={t('anchorPlatzi')}
+                    target='_blank'
+                    className='link font-bold'
+                  />
+                )
+              }}
+            />
           </div>
+
           <div className='mb-4'>
             <div className='inline max-md:hidden'>
               <Trans
@@ -48,18 +70,18 @@ export const AboutMe = () => {
                   component: <Component />,
                   anchorMusic: (
                     <a
-                      href={t('anchorOrganizations')}
-                      target='_blank'
-                      className='link font-bold'
-                    />
-                  ),
-                  anchorEmma: (
-                    <a
-                      href={t('anchorEmma')}
+                      href={t('anchorMusic')}
                       target='_blank'
                       className='link font-bold'
                     />
                   )
+                  // anchorEmma: (
+                  //   <a
+                  //     href={t('anchorEmma')}
+                  //     target='_blank'
+                  //     className='link font-bold'
+                  //   />
+                  // )
                 }}
               />
             </div>

@@ -28,6 +28,13 @@ export const References = () => {
                 target='_blank'
                 className='link font-bold'
               />
+            ),
+            anchorMisty: (
+              <a
+                href={t('anchorMisty')}
+                target='_blank'
+                className='link font-bold'
+              />
             )
           }}
         />

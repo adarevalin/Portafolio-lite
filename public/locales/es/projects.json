@@ -2,57 +2,90 @@
   "title": "Proyectos",
   "projects": [
     {
-      "name": "Misty Blunch's Portafolio v2",
-      "link": "https://github.com/MistyBlunch/portfolio-v2",
-      "image": "/images/projects/portfolio-v2.webp",
-      "description": "Mi portafolio actualizado con internacionalización, temas y mucho más.",
+      "name": "Gist: Clasificador para análisis de sentimientos",
+      "link": "https://gist.github.com/adarevalin/d5a8b686eee1495e1129adc75caa8068",
+      "image": "/images/projects/senti.png",
+      "description": "2024: Este código utiliza un corpus generado por Amazon que recopila reseñas de secciones como libros, DVD o electrónica. A partir de estos datos, se extrajeron las palabras más relevantes para cada clase y se codificaron para utilizar modelos de clasificación de sklearn.",
       "tools": [
-        "Node",
-        "Next",
-        "React",
-        "Tailwind",
-        "Framer Motion",
-        "Typescript"
+        "Python",
+        "Libreria NLTK",
+        "Libreria sklearn",
+        "Libreria Pandas",
+        "Libreria NumPy",
+        "Libreria matplotlib",
+        "GitHub"
       ]
     },
     {
-      "name": "Elegimos.pe",
-      "link": "https://github.com/ELECCIONES-PERU-PROYECTO/webpage",
+      "name": "Gist: Clasificador de SPAM",
+      "link": "https://gist.github.com/adarevalin/e6cc435158613cce83791f378940183e",
       "image": "/images/projects/elegimos.webp",
-      "description": "Página web con la que podrás filtrar a candidatos presidenciales y congresales de las elecciones peruanas del 2021.",
+      "description": "2024: Código que utiliza un corpus con correos clasificados como HAM y SPAM. Estos correos se procesan para obtener bigramas útiles que ayuden a determinar su etiqueta.",
+      "tools": [
+        "Python",
+        "Libreria NLTK",
+        "Libreria NumPy",
+        "Libreria Pandas",
+        "GitHub"
+      ]
+    },
+    {
+      "name": "Desarrollo de un modelo para predecir la turbidez del agua mediante el procesamiento de imágenes",
+      "link": "https://github.com/adarevalin/Modelo_turbidez_de_agua.git",
+      "image": "/images/projects/elegimos.webp",
+      "description": "2023: El modelo se construye utilizando datos de diferentes niveles de turbidez del agua. Se emplean integrales proyectivas para perfilar cada imagen y se somete a pruebas con diferentes modelos de sklearn y keras con el objetivo de mejorar su rendimiento.",
+      "tools": [
+        "Python",
+        "Libreria sklearn",
+        "Libreria NumPy",
+        "Libreria Pandas",
+        "tensorFlow",
+        "PyQt5",
+        "GitHub"
+      ]
+    },
+    {
+      "name": "Flujo de trabajo para frontend con Node.js y React",
+      "link": "https://github.com/adarevalin/Frontend_MyPortafolio.git",
+      "image": "/images/projects/elegimos.webp",
+      "description": "2023: Esta es mi primera estructura de frontend diseñada para gestionar los datos obtenidos del backend. Permite mostrarlos, realizar consultas, enviar datos, visualizar y actualizar la información de manera eficiente.",
       "tools": [
         "Javascript",
-        "Python",
-        "Django",
+        "Biblioteca React",
+        "Entorno Node.js",
         "PostgreSQL",
         "HTML",
         "CSS",
-        "UIkit"
+        "Git",
+        "GitHub"
       ]
     },
     {
-      "name": "Misty Blunch's Portafolio v1",
-      "link": "mistyblunch.github.io/",
+      "name": "Flujo de trabajo para backend con express y React",
+      "link": "https://github.com/adarevalin/Backend_MyPortafolio.git",
       "image": "/images/projects/portfolio-v1.webp",
-      "description": "Mi primer portafolio con internacionalización usando VanillaJS.",
-      "tools": ["Javascript", "HTML", "CSS", "Bulma"]
+      "description": "2023: Este es mi primer flujo de trabajo con Express para consultar una base de datos y gestionar datos, permitiendo la obtención, modificación, eliminación o actualización de los mismos.",
+      "tools": [
+      "Javascript",
+      "Biblioteca React",
+      "Entorno Express",
+      "PostgreSQL",
+      "Git",
+      "GitHub"]
     },
     {
-      "name": "Leauty Web Scraping",
-      "link": "https://github.com/MistyBlunch/leauty",
-      "image": "/images/projects/leauty.webp",
-      "description": "Página web para buscar y listar libros de libgen con una interfaz más amigable.",
+      "name": "Modelo de predicción del abecedario sordomudo por medio de imagenes",
+      "link": "https://github.com/adarevalin/Prediccion_de_abecedario_sordomudo.git",
+      "image": "/images/projects/elegimos.webp",
+      "description": "2022: Se encontra toda la programacion para programar su propio modelo para clasificacion, entrenarla y ejecutarla.",
       "tools": [
         "Python",
-        "Flask",
-        "Javascript",
-        "BeautifulSoup",
-        "HTML5",
-        "CSS3",
-        "Bulma"
+        "Libreria Mediapipe",
+        "Libreria Keras"
       ]
     }
   ],
+
   "cto-link": "/es/projects-history",
   "cto-text": "Historial de proyectos"
 }
