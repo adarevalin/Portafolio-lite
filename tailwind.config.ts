@@ -20,7 +20,14 @@ export default {
       transparent: 'transparent',
       dark: '#0e162a',
       light: '#fefeff',
-      pink: { dark: '#c454ae', light: '#db98ce' },
+      pink: {
+        dark: '#FF5000', // Tono naranja oscuro
+        light: '#FFD700', // Tono naranja claro
+      },
+      orange: {
+        dark: '#FF5000', // Tono naranja oscuro
+        light: '#FFD700', // Tono naranja claro
+      },
       slate: {
         200: colors.slate[200],
         300: colors.slate[300],

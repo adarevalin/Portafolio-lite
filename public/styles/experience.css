@@ -1,4 +1,4 @@
 .link-wrapper:hover + div .link {
-  color: theme('colors.pink.dark');
-  border-color: theme('colors.pink.dark');
+  color: theme('colors.orange.dark');
+  border-color: theme('colors.orange.dark');
 }

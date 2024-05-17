@@ -6,7 +6,7 @@ import colors from 'tailwindcss/colors'
 export const TextColorChangeDark = (props: { text: string }) => {
   const darkTextVariants = {
     rest: { color: colors.slate[200] },
-    hover: { color: '#c454ae' }
+    hover: { color: '#FF5000' }
   }
 
   const containerVariants = {

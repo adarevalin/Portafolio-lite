@@ -1,5 +1,5 @@
 .link-wrapper:hover+div .link,
 .link-wrapper:hover+div .project-img {
-  color: theme('colors.pink.dark');
-  border-color: theme('colors.pink.dark');
+  color: theme('colors.orange.dark');
+  border-color: theme('colors.orange.dark');
 }
