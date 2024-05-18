@@ -4,7 +4,7 @@ module.exports = {
   debug: process.env.NODE_ENV === 'development',
   i18n: {
     defaultLocale: 'es',
-    locales: ['en', 'es'],
+    locales: ['es'],
   },
   localePath:
     typeof window === 'undefined'
