@@ -4,7 +4,7 @@
     {
       "name": "Gist: Clasificador para análisis de sentimientos",
       "link": "https://gist.github.com/adarevalin/d5a8b686eee1495e1129adc75caa8068",
-      "image": "/images/projects/senti.png",
+      "image": "https://i.imgur.com/3JLQibR.png",
       "description": "2024: Este código utiliza un corpus generado por Amazon que recopila reseñas de secciones como libros, DVD o electrónica. A partir de estos datos, se extrajeron las palabras más relevantes para cada clase y se codificaron para utilizar modelos de clasificación de sklearn.",
       "tools": [
         "Python",
