@@ -1,12 +1,12 @@
 {
   "designRef": "Tomando como referencia de el <anchorRefPortfolio>portafolio de Brittany Chiang</anchorRefPortfolio>, <anchorMisty>MistyBlunch</anchorMisty> y la página de <anchorRefAngular>angular.dev</anchorRefAngular>. ",
-  "builtWithRef": "Construido con <anchorNextJS>Next.js</anchorNextJS> y <anchorTailwindCSS>Tailwind CSS</anchorTailwindCSS>, deployado con <anchorVercel>Vercel</anchorVercel> y programado en <anchorVSCode>VS Code</anchorVSCode>. ",
+  "builtWithRef": "Construido con <anchorNextJS>Next.js</anchorNextJS> y <anchorTailwindCSS>Tailwind CSS</anchorTailwindCSS>, deployado con <anchorVercel>github actions</anchorVercel> y programado en <anchorVSCode>VS Code</anchorVSCode>. ",
   "textFontRef": "Todos los textos tienen tipo de letra <anchorInterFont>Inter</anchorInterFont>.",
   "anchorRefPortfolio": "https://brittanychiang.com/",
   "anchorRefAngular": "https://angular.dev/",
   "anchorNextJS": "https://nextjs.org/",
   "anchorTailwindCSS": "https://tailwindcss.com/",
-  "anchorVercel": "https://vercel.com/",
+  "anchorVercel": "https://docs.github.com/es/actions",
   "anchorVSCode": "https://code.visualstudio.com/",
   "anchorInterFont": "https://rsms.me/inter/",
   "anchorMisty": "https://github.com/MistyBlunch/portfolio-v2.git"
