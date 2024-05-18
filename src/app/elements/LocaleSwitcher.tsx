@@ -10,7 +10,7 @@ export const LocaleSwitcher = (props?: { icon: Boolean }) => {
   const router = useRouter()
   const locales = nextI18nextConfig.i18n.locales
   const currentLang = router.locale
-  const changeTo = router.locale === locales[0] ? locales[1] : locales[0]
+  const changeTo = router.locale === locales[1] ? locales[0] : locales[1]
   const icon = props?.icon ?? true
 
   return (
@@ -27,7 +27,7 @@ export const LocaleSwitcher = (props?: { icon: Boolean }) => {
             <Translate className='max-lg:w-6 lg:w-8 max-lg:h-6 lg:h-8' />
           </Link>
         )}
-        <div className='grid grid-cols-2 divide-x'>
+        <div className='grid grid-cols-1 divide-x'>
           {locales.map((locale, i) => (
             <Link
               scroll={false}
