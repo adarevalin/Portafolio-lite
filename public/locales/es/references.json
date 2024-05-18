@@ -1,5 +1,5 @@
 {
-  "designRef": "Diseñado en marcha por <anchorMisty>MistyBlunch</anchorMisty> y tomando como referencia el <anchorRefPortfolio>portafolio de Brittany Chiang</anchorRefPortfolio> y la página de <anchorRefAngular>angular.dev</anchorRefAngular>. ",
+  "designRef": "Tomando como referencia de el <anchorRefPortfolio>portafolio de Brittany Chiang</anchorRefPortfolio>, <anchorMisty>MistyBlunch</anchorMisty> y la página de <anchorRefAngular>angular.dev</anchorRefAngular>. ",
   "builtWithRef": "Construido con <anchorNextJS>Next.js</anchorNextJS> y <anchorTailwindCSS>Tailwind CSS</anchorTailwindCSS>, deployado con <anchorVercel>Vercel</anchorVercel> y programado en <anchorVSCode>VS Code</anchorVSCode>. ",
   "textFontRef": "Todos los textos tienen tipo de letra <anchorInterFont>Inter</anchorInterFont>.",
   "anchorRefPortfolio": "https://brittanychiang.com/",
