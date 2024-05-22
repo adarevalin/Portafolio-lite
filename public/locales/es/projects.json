@@ -5,14 +5,14 @@
       "name": "Gist: Clasificador para análisis de sentimientos",
       "link": "https://gist.github.com/adarevalin/d5a8b686eee1495e1129adc75caa8068",
       "image": "https://i.imgur.com/3JLQibR.png",
-      "description": "2024: Este código utiliza un corpus generado por Amazon que recopila reseñas de secciones como libros, DVD o electrónica. A partir de estos datos, se extrajeron las palabras más relevantes para cada clase y se codificaron para utilizar modelos de clasificación de sklearn.",
+      "description": "2024: Este código utiliza un conjunto de datos generado por Amazon que recopila reseñas de secciones como libros, DVD o electrónica. A partir de estos datos, se extrajeron las palabras clave más relevantes para cada categoría y se representaron para utilizar modelos de clasificación de scikit-learn.",
       "tools": [
         "Python",
-        "Libreria NLTK",
-        "Libreria sklearn",
-        "Libreria Pandas",
-        "Libreria NumPy",
-        "Libreria matplotlib",
+        "Librería NLTK",
+        "Librería sklearn",
+        "Librería Pandas",
+        "Librería NumPy",
+        "Librería matplotlib",
         "GitHub"
       ]
     },
@@ -23,9 +23,9 @@
       "description": "2024: Código que utiliza un corpus con correos clasificados como HAM y SPAM. Estos correos se procesan para obtener bigramas útiles que ayuden a determinar su etiqueta.",
       "tools": [
         "Python",
-        "Libreria NLTK",
-        "Libreria NumPy",
-        "Libreria Pandas",
+        "Librería NLTK",
+        "Librería NumPy",
+        "Librería Pandas",
         "GitHub"
       ]
     },
@@ -36,9 +36,9 @@
       "description": "2023: El modelo se construye utilizando datos de diferentes niveles de turbidez del agua. Se emplean integrales proyectivas para perfilar cada imagen y se somete a pruebas con diferentes modelos de sklearn y keras con el objetivo de mejorar su rendimiento.",
       "tools": [
         "Python",
-        "Libreria sklearn",
-        "Libreria NumPy",
-        "Libreria Pandas",
+        "Librería sklearn",
+        "Librería NumPy",
+        "Librería Pandas",
         "tensorFlow",
         "PyQt5",
         "GitHub"
@@ -77,11 +77,11 @@
       "name": "Modelo de predicción del abecedario sordomudo por medio de imagenes",
       "link": "https://github.com/adarevalin/Prediccion_de_abecedario_sordomudo.git",
       "image": "https://i.imgur.com/SoDI5Su.jpg",
-      "description": "2022: Se encontra toda la programacion para programar su propio modelo para clasificacion, entrenarla y ejecutarla.",
+      "description": "2022: Se encuentra toda la programación para programar su propio modelo para clasificación, entrenarla y ejecutarla.",
       "tools": [
         "Python",
-        "Libreria Mediapipe",
-        "Libreria Keras"
+        "Librería Mediapipe",
+        "Librería Keras"
       ]
     }
   ],

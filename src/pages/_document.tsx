@@ -8,7 +8,7 @@ class MyDocument extends Document {
       <Html lang={currentLocale}>
         <Head>
           <meta charSet='utf-8' />
-          <link rel='icon' href='./public/images/icon.svg' />
+          <link rel='icon' href='https://i.imgur.com/HoKNUOb.png' />
         </Head>
         <body>
           <Main />

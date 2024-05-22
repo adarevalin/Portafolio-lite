@@ -8,7 +8,7 @@ export const AboutMeImageWrapper = () => {
           <div className='shape'>
             <div className='bd'>
               <Image
-                src='https://i.imgur.com/jW0U20i.png'
+                src='https://i.imgur.com/FYcQcNs.jpg'
                 alt='Caricature Image'
                 sizes='1000%'
                 fill
