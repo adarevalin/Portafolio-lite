@@ -24,6 +24,17 @@
   ],
   "projects": [
     {
+      "name": "Informe de ventas de Platzi",
+      "year": 2024,
+      "source": "Google Drive",
+      "link": "https://drive.google.com/drive/folders/1Of0nQ4pYLpPaAprJ2Njd7IrDr5JZSMYk?usp=drive_link",
+      "description": "2024: Basado en los datos de ventas proporcionados por Platzi, ofrece una experiencia visual interactiva que revela información clave sobre el rendimiento de ventas. Descubre las ventas totales, explora la cantidad de clientes, analiza las ventas por segmentos de clientes y desglosa las ventas por ubicación geográfica. Con este análisis detallado, obtendrás una visión profunda y dinámica del panorama comercial, que te permitirá identificar tendencias, oportunidades de crecimiento y áreas de mejora.",
+      "tools": [
+        "PowerBI Desktop",
+        "PowerBI Service"
+      ]
+    },
+    {
       "name": "Gist: Clasificador para análisis de sentimientos",
       "year": 2024,
       "source": "Github",
