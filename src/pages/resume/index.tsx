@@ -5,7 +5,7 @@ import { useRouter } from 'next/router'
 const Resume = () => {
   const route = useRouter()
   const locale = route.locale
-  const pdfPath = `https://drive.google.com/file/d/1EFDV_l6vChlxTqIrYfyWSGVoiRkQWC_W/view?usp=sharing`
+  const pdfPath = `https://drive.google.com/file/d/1EFDV_l6vChlxTqIrYfyWSGVoiRkQWC_W/edit`
   
   return (
     <div className='w-full h-screen'>
